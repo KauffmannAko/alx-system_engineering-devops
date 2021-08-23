@@ -1,0 +1,10 @@
+total 24
+drwxr-xr-x 2 root root 135 Aug 23 12:56 .
+drwxr-xr-x 6 root root 121 Aug 23 11:31 ..
+-rwxr--r-- 1 root root  38 Aug 23 11:43 4-lastlines
+-rwxr--r-- 1 root root  38 Aug 23 11:54 5-firstlines
+-rwxr--r-- 1 root root  40 Aug 23 12:42 6-third_line
+-rwxr--r-- 1 root root  36 Aug 23 12:54 7-file
+-rw-r--r-- 1 root root 801 Aug 23 12:41 iacta.txt
+-rw-r--r-- 1 root root   0 Aug 23 12:56 ls_cwd_content
+-rw-r--r-- 1 root root  50 Aug 23 11:34 README.md
