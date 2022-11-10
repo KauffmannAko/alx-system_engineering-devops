@@ -6,11 +6,10 @@ mySch="Best School"
 i=1
 while [ $i -le 10 ];
 do
+    echo "$mySch"
     if [ $i -eq 9 ]
     then
 	echo "Hi"
-    else
-	echo "$mySch"
     fi
     i=$((i+1))
 done
