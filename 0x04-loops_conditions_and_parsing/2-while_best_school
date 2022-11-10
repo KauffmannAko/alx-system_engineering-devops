@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#  Bash script that displays Best School 10 times.
+
+mySch="Best School"
+
+i=1
+while [ $i -le 10 ]; do
+    echo "$mySch"
+    i=$((i+1))
+done
+    
